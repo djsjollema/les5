@@ -14,3 +14,5 @@ dit is een oefening
 [dit is mijn link](https://sjo.hosts1.ma-cloud.nl/wiskundePortfolio2017/)
 
 ![art](art.png)
+
+# en dit is nieuw!
